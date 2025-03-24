@@ -2,24 +2,34 @@ import requests
 import pandas as pd
 from api_tokens import green_api, tank_api, alpha_api
 from datetime import datetime
+import time
 import logging
+import h5py
 
+
+
+#setup loggin
 logging.basicConfig(filename="log_file", level=logging.DEBUG, 
                     format="%(asctime)s:%(levelname)s:%(message)s")
 
+logging.getLogger("urllib3").setLevel(logging.WARNING)
+logging.getLogger("requests").setLevel(logging.WARNING)
 
 
+#function to call API
 def get_api(url, headers, querystring):
     response = requests.get(url, headers=headers, params=querystring)
 
     if response.status_code == 200:
-        logging.debug(data = response.json())
+        data = response.json()
+        logging.debug("API call successful")
+        return data
 
-    else: logging.error(print(response.status_code))
+    else: 
+        logging.error(f"API request failed. Status code: {response.status_code}")
 
 
-#https://gruenstromindex.de/
-
+#get data from https://gruenstromindex.de/
 green_url = "https://api.corrently.io/v2.0/gsi/prediction"
 
 querystring = {"zip":"10178",
@@ -30,9 +40,7 @@ headers = {
     "Accept": "application/json"
     }
    
-response = requests.get(green_url, headers=headers, params=querystring)
-
-data = response.json()
+data = get_api(url=green_url, headers=headers, querystring=querystring)
 
 df = pd.DataFrame(data["forecast"])
 
@@ -46,7 +54,7 @@ df.to_csv("grünstrom.csv", index = False)
 
 
 
-#https://www.tankerkoenig.de/
+#get data from https://www.tankerkoenig.de/
 tank_url = "https://creativecommons.tankerkoenig.de/json/list.php"
 
 tank_headers = {
@@ -63,22 +71,18 @@ tank_querystring = {
     "sort":"dist"
 }
 
-tank_response = requests.get(tank_url, headers = tank_headers, params=tank_querystring)
-
-tank_data = tank_response.json()
+tank_data = get_api(tank_url, tank_headers, tank_querystring)
 
 df_tank = pd.json_normalize(tank_data, record_path="stations")
 
 df_tank.drop(columns= ["id", "brand", "lat", "lng"], inplace=True)
-
-#print(df_tank.head(25))
 
 df_tank.to_csv("gas_price.csv", index=False)
 
 
 
 
-#https://www.alphavantage.co/
+#get data from https://www.alphavantage.co/
 alpha_url = "https://www.alphavantage.co/query"
 
 alpha_params = {
@@ -87,13 +91,15 @@ alpha_params = {
     "interval":"daily"
 }
 
-alpha_response = requests.get(alpha_url, params=alpha_params)
-
-alpha_data = alpha_response.json()
+alpha_data = get_api(url=alpha_url, querystring=alpha_params, headers=None)
 
 df_alpha = pd.DataFrame(alpha_data["data"])
 
-print(df_alpha.head())
-
 df_alpha.to_csv("brent.csv", index=False)
+
+
+#create csv file with webpages info
+urls = [green_url, tank_url, alpha_url]
+urls_df = pd.DataFrame({"url": urls})
+urls_df.to_csv("webpages.csv", index=False)
 

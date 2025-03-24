@@ -1,164 +1,164 @@
 name,street,place,dist,diesel,e5,e10,isOpen,houseNumber,postCode
 Aral Tankstelle,Prinzenstraße,Berlin,0.7,1.739,1.789,1.729,True,29,10969
-Shell Berlin Oranienstr. 138,Oranienstr.,Berlin,0.7,1.739,1.789,1.729,True,138,10969
-Esso Tankstelle,GNEISENAUSTR. 104-106,BERLIN,1.0,1.679,1.749,1.719,True,,10961
+Shell Berlin Oranienstr. 138,Oranienstr.,Berlin,0.7,1.699,1.769,1.709,True,138,10969
+Esso Tankstelle,GNEISENAUSTR. 104-106,BERLIN,1.0,1.719,1.829,1.799,True,,10961
 Aral Tankstelle,Skalitzer Straße,Berlin,1.5,1.699,1.809,1.749,True,26,10999
-TotalEnergies Berlin,Tempelhofer Ufer,Berlin,1.6,1.679,1.829,1.769,True,33-35,10963
+TotalEnergies Berlin,Tempelhofer Ufer,Berlin,1.6,1.729,1.799,1.739,True,33-35,10963
 Aral Tankstelle,Dudenstraße,Berlin,2.1,1.689,1.829,1.769,True,19,10965
-JET BERLIN KREUZBERGSTR. 41,KREUZBERGSTR.,BERLIN,2.1,1.669,1.819,1.759,True,41,10965
+JET BERLIN KREUZBERGSTR. 41,KREUZBERGSTR.,BERLIN,2.1,1.719,1.779,1.719,True,41,10965
 Aral Tankstelle,Holzmarktstraße,Berlin,2.1,1.719,1.759,1.699,True,12/14,10179
-Shell Berlin Skalitzer Str. 48,Skalitzer Str.,Berlin,2.2,1.749,1.829,1.769,True,48,10997
-Sprint Berlin Reuter Str.,Reuter Str.,Berlin,2.6,1.669,1.799,1.739,True,18-19,12043
+Shell Berlin Skalitzer Str. 48,Skalitzer Str.,Berlin,2.2,1.699,1.789,1.729,True,48,10997
+Sprint Berlin Reuter Str.,Reuter Str.,Berlin,2.6,1.699,1.809,1.749,True,18-19,12043
 Aral Tankstelle,Vor dem Schlesischen Tor,Berlin,3.4,1.739,1.789,1.729,True,,10997
-TotalEnergies Berlin,Prenzlauer Allee,Berlin,3.4,1.729,1.779,1.719,True,1-4,10405
-Aral Tankstelle,Sonnenallee,Berlin,3.5,1.709,1.849,1.789,True,113,12045
-Shell Berlin Martin-Luther-Str. 29,Martin-Luther-Str.,Berlin,3.6,1.729,1.829,1.769,True,29,10777
-Shell Berlin Paulstr. 20,Paulstr.,Berlin,3.7,1.749,1.819,1.779,True,20,10557
-TotalEnergies Berlin,Schoeneberger Str,Berlin,3.8,1.669,1.769,1.709,True,17,12103
-Esso Tankstelle,MARTIN-LUTHER-STR. 67,BERLIN,3.8,1.689,1.779,1.749,True,,10779
-Shell Berlin Sachsendamm 90-92,Sachsendamm,Berlin,3.9,1.739,1.819,1.779,True,90-92,10829
-Aral Tankstelle,Schöneberger Straße,Berlin,3.9,1.759,1.859,1.799,True,19-20,12103
-Aral Tankstelle,Rathenower Straße,Berlin,4.1,1.749,1.809,1.749,True,8,10559
-Shell Berlin Manteuffelstr. 6-7,Manteuffelstr.,Berlin,4.2,1.739,1.869,,True,6-7,12103
-TotalEnergies Berlin,Margarete-Sommer-Str.,Berlin,4.4,1.679,1.729,1.669,True,2,10407
-TotalEnergies Berlin,Chausseestr.,Berlin,4.5,1.739,1.789,1.729,True,61-62,10115
-Esso Tankstelle,LESSINGSTR. 4,BERLIN,4.5,1.689,1.749,1.689,True,,10555
+TotalEnergies Berlin,Prenzlauer Allee,Berlin,3.4,1.719,1.749,1.689,True,1-4,10405
+Aral Tankstelle,Sonnenallee,Berlin,3.5,1.709,1.839,1.779,True,113,12045
+Shell Berlin Martin-Luther-Str. 29,Martin-Luther-Str.,Berlin,3.6,1.729,1.819,1.759,True,29,10777
+Shell Berlin Paulstr. 20,Paulstr.,Berlin,3.7,1.729,1.769,1.729,True,20,10557
+TotalEnergies Berlin,Schoeneberger Str,Berlin,3.8,1.709,1.809,1.749,True,17,12103
+Esso Tankstelle,MARTIN-LUTHER-STR. 67,BERLIN,3.8,1.729,1.819,1.789,True,,10779
+Shell Berlin Sachsendamm 90-92,Sachsendamm,Berlin,3.9,1.709,1.789,1.749,True,90-92,10829
+Aral Tankstelle,Schöneberger Straße,Berlin,3.9,1.749,1.859,1.799,True,19-20,12103
+Aral Tankstelle,Rathenower Straße,Berlin,4.1,1.739,1.809,1.749,True,8,10559
+Shell Berlin Manteuffelstr. 6-7,Manteuffelstr.,Berlin,4.2,1.709,1.819,,True,6-7,12103
+TotalEnergies Berlin,Margarete-Sommer-Str.,Berlin,4.4,1.719,1.769,1.709,True,2,10407
+TotalEnergies Berlin,Chausseestr.,Berlin,4.5,1.719,1.769,1.709,True,61-62,10115
+Esso Tankstelle,LESSINGSTR. 4,BERLIN,4.5,1.729,1.789,1.729,True,,10555
 Aral Tankstelle,Brunnenstraße,Berlin,4.6,1.739,1.769,1.709,True,119,13355
-SB-Markttankstelle Berlin Bessemer Str.,Bessemer Str.,Berlin,4.7,1.659,1.759,1.699,True,57,12103
-Shell Berlin Bundesallee 200,Bundesallee,Berlin,4.7,1.749,1.809,1.769,True,200,10717
-JET BERLIN KARL-MARX-STR. 259-263,KARL-MARX-STR.,BERLIN,4.8,1.659,1.789,1.729,True,259-263,12057
-Shell Berlin Hauptstr. 91,Hauptstr.,Berlin,4.8,1.749,1.819,1.779,True,91,12159
+SB-Markttankstelle Berlin Bessemer Str.,Bessemer Str.,Berlin,4.7,1.689,1.789,1.729,True,57,12103
+Shell Berlin Bundesallee 200,Bundesallee,Berlin,4.7,1.739,1.769,1.729,True,200,10717
+JET BERLIN KARL-MARX-STR. 259-263,KARL-MARX-STR.,BERLIN,4.8,1.699,1.809,1.749,True,259-263,12057
+Shell Berlin Hauptstr. 91,Hauptstr.,Berlin,4.8,1.719,1.799,1.759,True,91,12159
 Hans Engelke Energie OHG,Tempelhofer Weg,Berlin,4.8,1.568,1.678,1.648,True,10,12099
-Sprint Berlin Kniprodestr.,Kniprodestr.,Berlin,4.8,1.669,1.719,1.659,True,25,10407
-Shell Berlin Karl-Marx-Str. 267,Karl-Marx-Str.,Berlin,4.8,1.729,1.859,1.799,True,267,12057
-TotalEnergies Berlin,Storkower Str.,Berlin,5.0,1.679,1.729,1.669,True,174,10369
+Sprint Berlin Kniprodestr.,Kniprodestr.,Berlin,4.8,1.709,1.759,1.699,True,25,10407
+Shell Berlin Karl-Marx-Str. 267,Karl-Marx-Str.,Berlin,4.8,1.719,1.849,1.789,True,267,12057
+TotalEnergies Berlin,Storkower Str.,Berlin,5.0,1.719,1.769,1.709,True,174,10369
 Aral Tankstelle,Hauptstraße,Berlin,5.0,1.729,1.829,1.769,True,86,12159
-Aral Tankstelle,Levetzowstraße,Berlin,5.0,1.749,1.809,1.749,True,9,10555
+Aral Tankstelle,Levetzowstraße,Berlin,5.0,1.739,1.809,1.749,True,9,10555
 Westfehling Tankstelle GmbH,Quitzowstrasse,Berlin,5.2,1.669,1.759,1.699,True,33,10559
 JET BERLIN STORKOWER STR. 126-130,STORKOWER STR.,BERLIN,5.2,1.669,1.719,1.659,True,126-130,10407
-Elan Berlin,Storkower Str.,Berlin,5.2,1.669,1.719,1.659,True,116,10407
-TotalEnergies Berlin,Britzer Damm,Berlin,5.4,1.679,1.809,1.749,True,60-62,12347
-TotalEnergies Berlin,Arnulfstr.,Berlin,5.4,1.659,1.769,1.709,True,98-99,12105
+Elan Berlin,Storkower Str.,Berlin,5.2,1.709,1.759,1.699,True,116,10407
+TotalEnergies Berlin,Britzer Damm,Berlin,5.4,1.709,1.819,1.759,True,60-62,12347
+TotalEnergies Berlin,Arnulfstr.,Berlin,5.4,1.709,1.809,1.749,True,98-99,12105
 Aral Tankstelle,Grenzallee,Berlin,5.4,1.759,1.819,1.759,True,6,12057
-Q1 Tankstelle,Mariendorfer Damm,Berlin,5.4,1.649,1.769,1.699,True,11-13,12109
-Sprint Berlin Lietzenburger Str.,Lietzenburger Str.,Berlin,5.5,1.689,1.739,1.679,True,97,10719
-SB Berlin Fraunhofer Straße 33-36,Fraunhofer Straße,Berlin,5.5,1.679,1.749,1.689,True,33-36,10587
-Aral Tankstelle,Bismarckstraße,Berlin,5.6,1.769,1.849,1.789,True,2,10625
-TotalEnergies Berlin,Bulgarische Str.,Berlin,5.6,1.679,1.749,1.689,True,9,12435
+Q1 Tankstelle,Mariendorfer Damm,Berlin,5.4,1.679,1.789,1.729,True,11-13,12109
+Sprint Berlin Lietzenburger Str.,Lietzenburger Str.,Berlin,5.5,1.729,1.779,1.719,True,97,10719
+SB Berlin Fraunhofer Straße 33-36,Fraunhofer Straße,Berlin,5.5,1.669,1.759,1.699,True,33-36,10587
+Aral Tankstelle,Bismarckstraße,Berlin,5.6,1.769,1.839,1.779,True,2,10625
+TotalEnergies Berlin,Bulgarische Str.,Berlin,5.6,1.709,1.769,1.709,True,9,12435
 Aral Tankstelle,Blissestraße,Berlin,5.6,1.739,1.809,1.749,True,21,10713
-BERLIN - WESTHAFENSTRASSE 1,Westhafenstrasse,Berlin,5.7,1.699,1.789,1.729,True,1,13353
-Esso Tankstelle,MARIENDORFER DAMM 44,BERLIN,5.8,1.669,1.799,1.739,True,,12109
-Shell Berlin Kaiserin-Auguste-Allee 9-9 A,Kaiserin-Auguste-Allee,Berlin,5.9,1.749,1.839,1.779,True,9-9 A,10553
-Shell Berlin Buchberger Str. 30,Buchberger Str.,Berlin,5.9,1.739,1.769,1.729,True,30,10365
-Aral Tankstelle,Beusselstraße,Berlin,5.9,1.719,1.769,1.709,True,55,10553
-Sprint Berlin Körnerstr.,Körnerstr.,Berlin,5.9,1.669,1.769,1.709,True,48 a,12157
-Esso Tankstelle,BUSCHKRUGALLEE 84-92,BERLIN,5.9,1.679,1.799,1.739,True,,12359
-Shell Berlin Tempelhofer Weg 102,Tempelhofer Weg,Berlin,6.0,1.739,1.869,1.809,True,102,12347
-"Berlin, Attilastr. 124",Attilastr.,Berlin,6.1,1.659,1.769,1.709,True,124,12105
-Shell Berlin Juelicher Str. 1,Juelicher Str.,Berlin,6.1,1.749,1.799,1.739,True,1,13357
+BERLIN - WESTHAFENSTRASSE 1,Westhafenstrasse,Berlin,5.7,1.699,1.769,1.709,True,1,13353
+Esso Tankstelle,MARIENDORFER DAMM 44,BERLIN,5.8,1.709,1.819,1.759,True,,12109
+Shell Berlin Kaiserin-Auguste-Allee 9-9 A,Kaiserin-Auguste-Allee,Berlin,5.9,1.709,1.769,1.709,True,9-9 A,10553
+Shell Berlin Buchberger Str. 30,Buchberger Str.,Berlin,5.9,1.729,1.739,1.699,True,30,10365
+Aral Tankstelle,Beusselstraße,Berlin,5.9,1.709,1.769,1.709,True,55,10553
+Sprint Berlin Körnerstr.,Körnerstr.,Berlin,5.9,1.699,1.809,1.749,True,48 a,12157
+Esso Tankstelle,BUSCHKRUGALLEE 84-92,BERLIN,5.9,1.719,1.839,1.779,True,,12359
+Shell Berlin Tempelhofer Weg 102,Tempelhofer Weg,Berlin,6.0,1.719,1.839,1.779,True,102,12347
+"Berlin, Attilastr. 124",Attilastr.,Berlin,6.1,1.699,1.809,1.749,True,124,12105
+Shell Berlin Juelicher Str. 1,Juelicher Str.,Berlin,6.1,1.729,1.759,1.699,True,1,13357
 Aral Tankstelle,Westfaelische Straße,Berlin,6.2,1.739,1.809,1.749,True,9-10,10709
-Shell Berlin Bergstr. 31/32,Bergstr.,Berlin,6.2,1.729,1.829,1.769,True,31/32,12169
-Shell Berlin Prinzenallee 20,Prinzenallee,Berlin,6.2,1.729,1.769,1.729,True,20,13357
+Shell Berlin Bergstr. 31/32,Bergstr.,Berlin,6.2,1.709,1.799,1.739,True,31/32,12169
+Shell Berlin Prinzenallee 20,Prinzenallee,Berlin,6.2,1.719,1.749,1.709,True,20,13357
 Sprint Berlin Mecklenburgische Str.,Mecklenburgische Str.,Berlin,6.3,1.729,1.779,1.719,True,76,10713
-Shell Berlin Berliner Str. 83,Berliner Str.,Berlin,6.3,1.739,1.789,1.749,True,83,13189
+Shell Berlin Berliner Str. 83,Berliner Str.,Berlin,6.3,1.719,1.719,1.679,True,83,13189
 Aral Tankstelle,Seestraße,Berlin,6.4,1.769,1.799,1.739,True,18/19,13353
-Shell Berlin Hohenzollerndamm 41,Hohenzollerndamm,Berlin,6.4,1.749,1.799,1.759,True,41,10713
-Shell Berlin Beusselstr. 44 N-Q,Beusselstr.,Berlin,6.4,1.739,1.819,1.769,True,44 N-Q,10553
-TotalEnergies Berlin,Spaethstr.,Berlin,6.5,1.729,1.849,1.799,True,158,12359
+Shell Berlin Hohenzollerndamm 41,Hohenzollerndamm,Berlin,6.4,1.729,1.779,1.739,True,41,10713
+Shell Berlin Beusselstr. 44 N-Q,Beusselstr.,Berlin,6.4,1.729,1.809,1.759,True,44 N-Q,10553
+TotalEnergies Berlin,Spaethstr.,Berlin,6.5,1.709,1.809,1.759,True,158,12359
 Aral Tankstelle,Frankfurter Allee,Berlin,6.5,1.769,1.789,1.729,True,214,10365
-Aral Tankstelle,Britzer Damm,Berlin,6.5,1.739,1.869,1.809,True,202-204,12347
-star Tankstelle,Steglitzer Damm,Berlin,6.5,1.669,1.769,1.709,True,77,12169
-JET BERLIN HERZBERGSTR. 27,HERZBERGSTR.,BERLIN,6.7,1.669,1.699,1.639,True,27,10365
-Aral Tankstelle,Kaiser-Friedrich-Str.,Berlin,6.7,1.739,1.809,1.749,True,45 B,10627
-Sprint Berlin Residenzstr.,Residenzstr.,Berlin,6.8,1.679,1.709,1.649,True,79,13409
-Elan Berlin,Tino-Schwierzina-Str.,Berlin,6.9,1.669,1.709,1.649,True,37,13089
-star Tankstelle,Otto-Suhr-Allee,Berlin,6.9,1.679,1.739,1.679,True,132,10585
-JET BERLIN PRENZLAUER PROMENADE 42 A,PRENZLAUER PROMENADE,BERLIN,6.9,1.669,1.709,1.649,True,42 A,13089
-Shell Berlin Kaiser-Friedrich-Str. 95,Kaiser-Friedrich-Str.,Berlin,6.9,1.739,1.809,1.749,True,95,10585
+Aral Tankstelle,Britzer Damm,Berlin,6.5,1.729,1.869,1.809,True,202-204,12347
+star Tankstelle,Steglitzer Damm,Berlin,6.5,1.699,1.809,1.749,True,77,12169
+JET BERLIN HERZBERGSTR. 27,HERZBERGSTR.,BERLIN,6.7,1.619,1.719,1.659,True,27,10365
+Aral Tankstelle,Kaiser-Friedrich-Str.,Berlin,6.7,1.739,1.799,1.739,True,45 B,10627
+Sprint Berlin Residenzstr.,Residenzstr.,Berlin,6.8,1.709,1.739,1.679,True,79,13409
+Elan Berlin,Tino-Schwierzina-Str.,Berlin,6.9,1.719,1.739,1.679,True,37,13089
+star Tankstelle,Otto-Suhr-Allee,Berlin,6.9,1.669,1.759,1.699,True,132,10585
+JET BERLIN PRENZLAUER PROMENADE 42 A,PRENZLAUER PROMENADE,BERLIN,6.9,1.699,1.709,1.649,True,42 A,13089
+Shell Berlin Kaiser-Friedrich-Str. 95,Kaiser-Friedrich-Str.,Berlin,6.9,1.739,1.799,1.739,True,95,10585
 Aral Tankstelle,Suedwestkorso,Berlin,7.0,1.739,1.819,1.759,True,36 A,14197
-star Tankstelle,Kaiser-Friedrich-Straße,Berlin,7.0,1.679,1.739,1.679,True,102,10585
-TotalEnergies Berlin,Indira-Gandhi-Str.,Berlin,7.0,1.729,1.779,1.719,True,106-109,13053
-JET BERLIN SIEGFRIEDSTR. 179,SIEGFRIEDSTR.,BERLIN,7.1,1.669,1.699,1.639,True,179,10365
+star Tankstelle,Kaiser-Friedrich-Straße,Berlin,7.0,1.669,1.759,1.699,True,102,10585
+TotalEnergies Berlin,Indira-Gandhi-Str.,Berlin,7.0,1.619,1.749,1.689,True,106-109,13053
+JET BERLIN SIEGFRIEDSTR. 179,SIEGFRIEDSTR.,BERLIN,7.1,1.619,1.739,1.679,True,179,10365
 Aral Tankstelle,Mühlenstraße,Berlin,7.1,1.719,1.739,1.679,True,26,13187
-Shell Berlin Mariendorfer Damm 170/172,Mariendorfer Damm,Berlin,7.1,1.719,1.839,1.779,True,170/172,12107
-Bavaria Petrol,Heilbronner Straße,Berlin,7.2,1.679,1.749,1.689,True,14-15,10711
-Shell Berlin Rummelsburger Landstr. 16,Rummelsburger Landstr.,Berlin,7.2,1.739,1.779,1.729,True,16,12459
-star Tankstelle,Siegfriedstraße,Berlin,7.2,1.669,1.699,1.639,True,170,10365
+Shell Berlin Mariendorfer Damm 170/172,Mariendorfer Damm,Berlin,7.1,1.699,1.809,1.749,True,170/172,12107
+Bavaria Petrol,Heilbronner Straße,Berlin,7.2,1.719,1.789,1.729,True,14-15,10711
+Shell Berlin Rummelsburger Landstr. 16,Rummelsburger Landstr.,Berlin,7.2,1.729,1.769,1.719,True,16,12459
+star Tankstelle,Siegfriedstraße,Berlin,7.2,1.669,1.719,1.659,True,170,10365
 Aral Tankstelle,Mariendorfer Damm,Berlin,7.4,1.709,1.839,1.779,True,195,12107
-Aral Tankstelle,Kaiser-Wilhelm-Straße,Berlin,7.5,1.719,1.829,1.769,True,117,12247
-Shell Berlin Grossbeerenstr. 82-88,Grossbeerenstr.,Berlin,7.6,1.719,1.829,1.789,True,82-88,12107
+Aral Tankstelle,Kaiser-Wilhelm-Straße,Berlin,7.5,1.709,1.829,1.769,True,117,12247
+Shell Berlin Grossbeerenstr. 82-88,Grossbeerenstr.,Berlin,7.6,1.719,1.819,1.779,True,82-88,12107
 Aral Tankstelle,Kurfuerstendamm,Berlin,7.6,1.749,1.819,1.759,True,128,10711
 Aral Tankstelle,Köpenicker Landstr.,Berlin,7.7,1.709,1.769,1.709,True,"294,",12437
-Sprint Berlin Grüner Weg,Grüner Weg,Berlin,7.7,1.669,1.789,1.729,True,75,12359
+Sprint Berlin Grüner Weg,Grüner Weg,Berlin,7.7,1.709,1.819,1.759,True,75,12359
 Aral Tankstelle,Schlossstraße,Berlin,7.8,1.729,1.829,1.769,True,63-64,12165
-Esso Tankstelle,HUBERTUSALLEE 1-3,BERLIN,7.8,1.689,1.759,1.699,True,,14193
-"Berlin, Prenzlauer Promenade 68",Prenzlauer Promenade,Berlin,7.8,1.669,1.739,1.679,True,68,13089
-JET BERLIN ROMAIN-ROLLAND-STR. 13,ROMAIN-ROLLAND-STR.,BERLIN,7.9,1.669,1.709,1.649,True,13,13089
-star Tankstelle,Prenzlauer Promenade,Berlin,7.9,1.669,1.709,1.649,True,72-73,13089
-"Berlin, Romain-Rolland Str. 2",Romain-Rolland-Str.,Berlin,7.9,1.669,1.709,1.649,True,2,13089
-Aral Tankstelle,Residenzstraße,Berlin,8.0,1.769,1.749,1.689,True,29,13409
-"Berlin, Saatwinkler Damm 62",Saatwinkler Damm,Berlin,8.1,1.689,1.709,1.649,True,62,13627
+Esso Tankstelle,HUBERTUSALLEE 1-3,BERLIN,7.8,1.749,1.809,1.749,True,,14193
+"Berlin, Prenzlauer Promenade 68",Prenzlauer Promenade,Berlin,7.8,1.719,1.739,1.679,True,68,13089
+JET BERLIN ROMAIN-ROLLAND-STR. 13,ROMAIN-ROLLAND-STR.,BERLIN,7.9,1.619,1.709,1.649,True,13,13089
+star Tankstelle,Prenzlauer Promenade,Berlin,7.9,1.669,1.739,1.679,True,72-73,13089
+"Berlin, Romain-Rolland Str. 2",Romain-Rolland-Str.,Berlin,7.9,1.669,1.739,1.679,True,2,13089
+Aral Tankstelle,Residenzstraße,Berlin,8.0,1.759,1.749,1.689,True,29,13409
+"Berlin, Saatwinkler Damm 62",Saatwinkler Damm,Berlin,8.1,1.699,1.759,1.699,True,62,13627
 Aral Tankstelle,Messedamm,Berlin,8.1,1.739,1.809,1.749,True,6,14057
-star Tankstelle,Berliner Allee,Berlin,8.1,1.669,1.699,1.639,True,257,13088
-Shell Berlin Rothenbachstr. 1,Rothenbachstr.,Berlin,8.2,1.739,1.769,1.729,True,1,13089
-Shell Berlin Damerowstr. 22/23,Damerowstr.,Berlin,8.2,1.739,1.759,1.719,True,22/23,13187
-ORLEN Tankstelle,Mariendorfer Damm,Berlin,8.2,1.649,1.759,1.699,True,306,12107
+star Tankstelle,Berliner Allee,Berlin,8.1,1.669,1.739,1.679,True,257,13088
+Shell Berlin Rothenbachstr. 1,Rothenbachstr.,Berlin,8.2,1.709,1.719,1.679,True,1,13089
+Shell Berlin Damerowstr. 22/23,Damerowstr.,Berlin,8.2,1.709,1.719,1.679,True,22/23,13187
+ORLEN Tankstelle,Mariendorfer Damm,Berlin,8.2,1.659,1.779,1.719,True,306,12107
 Avus,A 115,Berlin,8.3,2.019,2.259,2.194,True,,14055
 Aral Tankstelle,Schnellerstraße,Berlin,8.4,1.709,1.769,1.709,True,20,12439
-TotalEnergies Berlin,Rhinstr.,Berlin,8.4,1.729,1.779,1.719,True,52,12681
-star Tankstelle,Königin-Luise-Straße,Berlin,8.4,1.679,1.789,1.729,True,22a,14195
-Shell Berlin Rudower Str. 102,Rudower Str.,Berlin,8.4,1.739,1.859,1.809,True,102,12351
+TotalEnergies Berlin,Rhinstr.,Berlin,8.4,1.709,1.759,1.699,True,52,12681
+star Tankstelle,Königin-Luise-Straße,Berlin,8.4,1.699,1.809,1.749,True,22a,14195
+Shell Berlin Rudower Str. 102,Rudower Str.,Berlin,8.4,1.719,1.819,1.769,True,102,12351
 KP Petrol GmbH,Kapweg,Berlin,8.4,1.659,1.689,1.629,True,2,13405
-Shell Berlin Kaiserdamm 34,Kaiserdamm,Berlin,8.4,1.749,1.819,1.759,True,34,14057
-Esso Tankstelle,HOLLAENDERSTR. 52,BERLIN,8.4,1.699,1.719,1.659,True,,13407
-ENI,Belßstr.,Berlin,8.4,1.679,1.789,1.729,True,51,12249
+Shell Berlin Kaiserdamm 34,Kaiserdamm,Berlin,8.4,1.729,1.799,1.739,True,34,14057
+Esso Tankstelle,HOLLAENDERSTR. 52,BERLIN,8.4,1.759,1.779,1.719,True,,13407
+ENI,Belßstr.,Berlin,8.4,1.709,1.819,1.759,True,51,12249
 JET BERLIN AM TIERPARK 126,AM TIERPARK,BERLIN,8.4,1.669,1.719,1.659,True,126,10319
-Sprint Berlin Blankenburger Str.,Blankenburger Str.,Berlin,8.4,1.669,1.709,1.649,True,96-99,13089
+Sprint Berlin Blankenburger Str.,Blankenburger Str.,Berlin,8.4,1.619,1.709,1.649,True,96-99,13089
 star Tankstelle,Rhinstraße,Berlin,8.4,1.669,1.719,1.659,True,47,10315
 Aral Tankstelle,Scharnweberstraße,Berlin,8.5,1.769,1.789,1.729,True,12-13,13405
-JET BERLIN KURT-SCHUMACHER-DAMM 36,KURT-SCHUMACHER-DAMM,BERLIN,8.5,1.689,1.709,1.649,True,36,13405
-TopTank Tankstelle,MARIENDORFER DAMM 341,BERLIN,8.6,1.659,1.789,1.729,True,,12107
+JET BERLIN KURT-SCHUMACHER-DAMM 36,KURT-SCHUMACHER-DAMM,BERLIN,8.5,1.699,1.759,1.699,True,36,13405
+TopTank Tankstelle,MARIENDORFER DAMM 341,BERLIN,8.6,1.699,1.809,1.749,True,,12107
 Aral Tankstelle,Hohenzollerndamm,Berlin,8.6,1.739,1.809,1.749,True,97,14199
-Esso Tankstelle,KAISER-WILHELM-STR. 34,BERLIN,8.6,1.679,1.779,1.719,True,,12247
-star Tankstelle,Johannisthaler Ch.,Berlin,8.6,1.659,1.769,1.709,True,263-273,12351
-"Berlin, Straße vor Schönholz 3",Straße vor Schönholz,Berlin,8.6,1.659,1.719,1.659,True,3,13158
-"Berlin, Berliner Allee 320",Berliner Allee,Berlin,8.8,1.669,1.699,1.639,True,320,13088
-Shell Berlin Letterhausweg 2,Letterhausweg,Berlin,8.8,1.749,1.819,1.759,True,2,13627
-star Tankstelle,Malchower Chaussee,Berlin,8.8,1.669,1.699,1.639,True,1,13088
-TotalEnergies Berlin,Rhinstr.,Berlin,8.8,1.729,1.779,1.719,True,175,13053
-Shell Berlin Johannisthaler Chaussee 411,Johannisthaler Chaussee,Berlin,8.8,1.729,1.849,1.789,True,411,12351
-Sprint Berlin Rudower Str.,Rudower Str.,Berlin,8.9,1.669,1.789,1.729,True,150,12351
-Shell Berlin Buckower Damm 225,Buckower Damm,Berlin,8.9,1.729,1.849,1.789,True,225,12349
-Shell Berlin Spandauer Damm 151,Spandauer Damm,Berlin,8.9,1.739,1.809,1.749,True,151,14050
-"Berlin, Alt-Friedrichsfelde 61",Alt-Friedrichsfelde,Berlin,8.9,1.669,1.719,1.659,True,61,10315
-star Tankstelle,Hansastraße,Berlin,9.0,1.669,1.699,1.639,True,199,13088
+Esso Tankstelle,KAISER-WILHELM-STR. 34,BERLIN,8.6,1.719,1.829,1.769,True,,12247
+star Tankstelle,Johannisthaler Ch.,Berlin,8.6,1.659,1.779,1.719,True,263-273,12351
+"Berlin, Straße vor Schönholz 3",Straße vor Schönholz,Berlin,8.6,1.689,1.719,1.659,True,3,13158
+"Berlin, Berliner Allee 320",Berliner Allee,Berlin,8.8,1.619,1.739,1.679,True,320,13088
+Shell Berlin Letterhausweg 2,Letterhausweg,Berlin,8.8,1.729,1.799,1.739,True,2,13627
+star Tankstelle,Malchower Chaussee,Berlin,8.8,1.669,1.739,1.679,True,1,13088
+TotalEnergies Berlin,Rhinstr.,Berlin,8.8,1.709,1.759,1.699,True,175,13053
+Shell Berlin Johannisthaler Chaussee 411,Johannisthaler Chaussee,Berlin,8.8,1.719,1.829,1.769,True,411,12351
+Sprint Berlin Rudower Str.,Rudower Str.,Berlin,8.9,1.709,1.819,1.759,True,150,12351
+Shell Berlin Buckower Damm 225,Buckower Damm,Berlin,8.9,1.719,1.829,1.769,True,225,12349
+Shell Berlin Spandauer Damm 151,Spandauer Damm,Berlin,8.9,1.739,1.799,1.739,True,151,14050
+"Berlin, Alt-Friedrichsfelde 61",Alt-Friedrichsfelde,Berlin,8.9,1.699,1.749,1.689,True,61,10315
+star Tankstelle,Hansastraße,Berlin,9.0,1.619,1.739,1.679,True,199,13088
 JET BERLIN RHINSTR. 240,RHINSTR.,BERLIN,9.1,1.669,1.719,1.659,True,240,13055
-Q1 Tankstelle,Blankenburger Straße,Berlin,9.1,1.649,1.729,1.669,True,36,13156
+Q1 Tankstelle,Blankenburger Straße,Berlin,9.1,1.689,1.719,1.669,True,36,13156
 Aral Tankstelle,Reichsstraße,Berlin,9.2,1.749,1.819,1.759,True,13-14,14052
-TotalEnergies Berlin,Landsberger Allee,Berlin,9.2,1.679,1.729,1.669,True,376,12681
-Shell Berlin Ollenhauerstr. 101,Ollenhauerstr.,Berlin,9.2,1.759,1.779,1.719,True,101,13403
-Union Zapfstelle Berlin,Michael-Brückner-Str.,Berlin,9.2,1.659,1.709,1.659,True,26-31,12439
-TotalEnergies Berlin,Wackenbergstr.,Berlin,9.2,1.659,1.749,1.689,True,2,13156
-JET BERLIN MICHAEL- BRUECKNER- STR. 25,MICHAEL- BRUECKNER- STR.,BERLIN,9.3,1.659,1.719,1.669,True,25,12439
-star Tankstelle,Hansastraße,Berlin,9.3,1.559,1.689,1.629,True,220,13051
-TotalEnergies Berlin,Am Feuchten Winkel,Berlin,9.4,1.679,1.719,1.659,True,11,13127
+TotalEnergies Berlin,Landsberger Allee,Berlin,9.2,1.709,1.759,1.699,True,376,12681
+Shell Berlin Ollenhauerstr. 101,Ollenhauerstr.,Berlin,9.2,1.749,1.769,1.709,True,101,13403
+Union Zapfstelle Berlin,Michael-Brückner-Str.,Berlin,9.2,1.689,1.739,1.689,True,26-31,12439
+TotalEnergies Berlin,Wackenbergstr.,Berlin,9.2,1.699,1.739,1.679,True,2,13156
+JET BERLIN MICHAEL- BRUECKNER- STR. 25,MICHAEL- BRUECKNER- STR.,BERLIN,9.3,1.699,1.739,1.689,True,25,12439
+star Tankstelle,Hansastraße,Berlin,9.3,1.609,1.739,1.679,True,220,13051
+TotalEnergies Berlin,Am Feuchten Winkel,Berlin,9.4,1.709,1.739,1.679,True,11,13127
 Aral Tankstelle,Alt-Friedrichsfelde,Berlin,9.4,1.729,1.779,1.719,True,64,12683
 Shell Berlin Koenigsberger Str. 8,Koenigsberger Str.,Berlin,9.4,1.729,1.809,1.769,True,8,12207
-Access Berlin,Reichsstr.,Berlin,9.5,1.679,1.749,1.689,True,86,14052
+Access Berlin,Reichsstr.,Berlin,9.5,1.719,1.789,1.729,True,86,14052
 Aral Tankstelle,Drakestraße,Berlin,9.5,1.709,1.819,1.759,True,26a,12205
-TotalEnergies Berlin,Heerstr.,Berlin,9.5,1.739,1.829,1.769,True,35-37,14055
+TotalEnergies Berlin,Heerstr.,Berlin,9.5,1.739,1.809,1.749,True,35-37,14055
 Aral Tankstelle,Roedernallee,Berlin,9.5,1.739,1.809,1.749,True,179,13407
-Esso Tankstelle,MARIENFELDER CHAUSSEE 171,BERLIN,9.5,1.669,1.789,1.729,True,,12349
-Esso Tankstelle,UNTER DEN EICHEN 67-69,BERLIN,9.5,1.689,1.799,1.739,True,,12203
-star Tankstelle,Gehrenseestraße,Berlin,9.5,1.669,1.719,1.659,True,10,13053
-TotalEnergies Berlin,Ribnitzer Str.,Berlin,9.6,1.679,1.709,1.649,True,42,13051
-Aral Tankstelle,Neuköllner Straße,Berlin,9.6,1.729,1.849,1.789,True,219,12357
-Shell Berlin Scharnweberstr. 79/81,Scharnweberstr.,Berlin,9.7,1.759,1.779,1.719,True,79/81,13405
-Esso Tankstelle,FRITZ-ERLER-ALLEE 154,BERLIN,9.7,1.679,1.799,1.739,True,,12353
-star Tankstelle,Königsberger Straße,Berlin,9.8,1.669,1.779,1.719,True,25a,12207
+Esso Tankstelle,MARIENFELDER CHAUSSEE 171,BERLIN,9.5,1.709,1.819,1.759,True,,12349
+Esso Tankstelle,UNTER DEN EICHEN 67-69,BERLIN,9.5,1.679,1.789,1.729,True,,12203
+star Tankstelle,Gehrenseestraße,Berlin,9.5,1.699,1.749,1.689,True,10,13053
+TotalEnergies Berlin,Ribnitzer Str.,Berlin,9.6,1.729,1.749,1.689,True,42,13051
+Aral Tankstelle,Neuköllner Straße,Berlin,9.6,1.719,1.829,1.769,True,219,12357
+Shell Berlin Scharnweberstr. 79/81,Scharnweberstr.,Berlin,9.7,1.749,1.769,1.709,True,79/81,13405
+Esso Tankstelle,FRITZ-ERLER-ALLEE 154,BERLIN,9.7,1.719,1.829,1.769,True,,12353
+star Tankstelle,Königsberger Straße,Berlin,9.8,1.699,1.799,1.739,True,25a,12207
 Aral Tankstelle,Pasewalker Straße,Berlin,9.8,1.749,1.789,1.729,True,110,13127
 JET BERLIN BUCKOWER CHAUSSEE 36-42,BUCKOWER CHAUSSEE,BERLIN,9.8,1.659,1.779,1.719,True,36-42,12277
 Sb Berlin Marzahn Märkische Allee 61,Märkische Allee,Berlin Marzahn,9.8,1.669,1.719,1.659,True,61,12681
-Sprint Berlin Barnackufer,Barnackufer,Berlin,9.8,1.679,1.789,1.729,True,25,12207
+Sprint Berlin Barnackufer,Barnackufer,Berlin,9.8,1.719,1.829,1.769,True,25,12207
 Aral Tankstelle,Märkische Allee,Berlin,9.9,1.709,1.759,1.699,True,155,12681
-Aral Tankstelle,Neukoellner Str.,Berlin,10.0,1.729,1.849,1.789,True,250-256,12357
+Aral Tankstelle,Neukoellner Str.,Berlin,10.0,1.719,1.829,1.769,True,250-256,12357
