@@ -1,3 +1,4 @@
 api_tokens.py
 .venv
 __pycache__
+log_file

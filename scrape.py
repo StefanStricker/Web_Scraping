@@ -1,9 +1,22 @@
 import requests
-from bs4 import BeautifulSoup
 import pandas as pd
-import oauth2
 from api_tokens import green_api, tank_api, alpha_api
 from datetime import datetime
+import logging
+
+logging.basicConfig(filename="log_file", level=logging.DEBUG, 
+                    format="%(asctime)s:%(levelname)s:%(message)s")
+
+
+
+def get_api(url, headers, querystring):
+    response = requests.get(url, headers=headers, params=querystring)
+
+    if response.status_code == 200:
+        logging.debug(data = response.json())
+
+    else: logging.error(print(response.status_code))
+
 
 #https://gruenstromindex.de/
 
@@ -16,7 +29,7 @@ querystring = {"zip":"10178",
 headers = {
     "Accept": "application/json"
     }
-
+   
 response = requests.get(green_url, headers=headers, params=querystring)
 
 data = response.json()
