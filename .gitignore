@@ -2,3 +2,5 @@ api_tokens.py
 .venv
 __pycache__
 log_file
+data.h5
+webpages.csv
