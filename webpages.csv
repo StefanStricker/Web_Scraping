@@ -1,4 +1,4 @@
-url
-https://api.corrently.io/v2.0/gsi/prediction
-https://creativecommons.tankerkoenig.de/json/list.php
-https://www.alphavantage.co/query
+name,webpageurl,2025-03-27 12:00:07,2025-03-28 12:00:06,2025-03-29 12:00:04,2025-03-30 12:00:05,2025-03-31 12:00:05,2025-04-01 12:00:04
+fuel,https://creativecommons.tankerkoenig.de/json/list.php,called,called,called,called,called,called
+green,https://api.corrently.io/v2.0/gsi/prediction,called,called,called,called,called,called
+oil,https://www.alphavantage.co/query,called,called,called,called,called,called

@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from api_tokens import green_api, tank_api, alpha_api
 from datetime import datetime
-import time
+import os
 import logging
 from pandas import HDFStore
 
@@ -91,6 +91,30 @@ def save_all_to_hdf5(dataframes_dict, filename="data.h5"):
                 logging.warning(f"No data to save for {name}")
 
 
+
+#saves api calls to csv
+def api_calls_csv(apis, log="webpages.csv"):
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    new_log = pd.DataFrame({
+        "name": list(apis.keys()),
+        "webpageurl": [cfg["url"] for cfg in apis.values()],
+        now: ["called"] * len(apis)
+    })
+
+    if os.path.exists(log):
+        existing_log = pd.read_csv(log)
+
+        merged = pd.merge(existing_log, new_log, on=["name", "webpageurl"], how="outer")
+        merged.to_csv(log, index=False)
+    else:
+        new_log.to_csv(log, index=False)
+
+    logging.info(f"Updated API call log at {log}")
+
+
+
+
 def main():
     json_data = {}
     dfs = {}
@@ -102,11 +126,8 @@ def main():
         dfs[name] = df
 
     save_all_to_hdf5(dfs)
+    api_calls_csv(apis)
 
-    #create csv file with Webpage info
-    urls_df = pd.DataFrame({"url": [cfg["url"] for cfg in apis.values()]})
-    urls_df.to_csv("webpages.csv", index=False)
-    logging.info("Saved source URLs to webpages.csv")
 
 if __name__ == "__main__":
     main()
