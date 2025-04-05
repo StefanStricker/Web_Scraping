@@ -1,46 +1,57 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
 
 store = pd.HDFStore("data.h5")
 
-#print(store.keys())
-
+# Plotting Green Strom GSI
 green_keys = [key for key in store.keys() if key.startswith("/green")]
-oil_keys = [key for key in store.keys() if key.startswith("/oil")]
-fuel_keys = [key for key in store.keys() if key.startswith("/fuel")]
 
-
-# Prepare list to hold values
 records = []
 
-# Loop over green keys
 for key in green_keys:
     df = store.get(key)
 
-    # Get the date from the key
     date = key.split("/")[-1]
 
-    # Optional: inspect available columns
-    # print(df.columns)
-
-    # Extract a single numeric value (e.g., average of 'gsi' column)
     if "gsi" in df.columns:
-        gsi_avg = df["gsi"].mean()  # or use df["gsi"].iloc[0] if there's only 1 row
+        gsi_avg = df["gsi"].mean() 
         records.append({"date": date, "gsi": gsi_avg})
 
-store.close()
 
-# Convert to DataFrame
 df_gsi = pd.DataFrame(records)
 df_gsi["date"] = pd.to_datetime(df_gsi["date"])
 df_gsi.sort_values("date", inplace=True)
 
-# Plot
 plt.figure(figsize=(10, 5))
-plt.plot(df_gsi["date"], df_gsi["gsi"], marker="o", linestyle="-")
+plt.plot(df_gsi["date"], df_gsi["gsi"])
 plt.title("Daily Average GSI (Green Strom Index)")
 plt.xlabel("Date")
 plt.ylabel("GSI")
 plt.grid(True)
 plt.tight_layout()
 plt.savefig("gsi.png")
+
+
+#Plotting Brent Oil Price
+oil_keys = sorted(
+    [key for key in store.keys() if key.startswith("/oil/")],
+    key=lambda k: k.split("/")[-1]
+)
+
+latest_key = oil_keys[-1]
+
+df_latest_oil = store.get(latest_key)
+df_latest_oil = df_latest_oil.head(6).iloc[::-1]
+df_latest_oil["value"] = pd.to_numeric(df_latest_oil["value"])
+
+plt.figure(figsize=(10, 5))
+plt.plot(df_latest_oil["date"], df_latest_oil["value"])
+plt.title("Daily Oil Value")
+plt.xlabel("Date")
+plt.ylabel("Dollars per barrel")
+plt.grid(True)
+plt.tight_layout()
+plt.savefig("oil.png")
+
+#Plotting Gas Price
