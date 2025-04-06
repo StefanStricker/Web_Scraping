@@ -55,3 +55,31 @@ plt.tight_layout()
 plt.savefig("oil.png")
 
 #Plotting Gas Price
+fuel_keys = [key for key in store.keys() if key.startswith("/fuel")]
+
+records = []
+
+for key in fuel_keys:
+    df = store.get(key)
+
+    date = key.split("/")[-1]
+    df = df[df["dist"] < 5]
+
+    if "diesel" in df.columns:
+        diesel_avg = df["diesel"].mean() 
+        records.append({"date": date, "diesel": diesel_avg})
+
+df_fuel = pd.DataFrame(records)
+df_fuel["date"] = pd.to_datetime(df_fuel["date"])
+df_fuel.sort_values("date", inplace=True)
+
+store.close()
+
+plt.figure(figsize=(10, 5))
+plt.plot(df_fuel["date"], df_fuel["diesel"])
+plt.title("Average Diesel Price in 5km radius")
+plt.xlabel("Date")
+plt.ylabel("Diesel Price in €")
+plt.grid(True)
+plt.tight_layout()
+plt.savefig("diesel.png")
